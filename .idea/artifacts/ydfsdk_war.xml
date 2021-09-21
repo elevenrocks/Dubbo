@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ydfsdk:war">
+    <output-path>$PROJECT_DIR$/ydfsdk/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ydfsdk</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="是打工会.war">
+      <element id="artifact" artifact-name="ydfsdk:war exploded" />
+    </root>
+  </artifact>
+</component>

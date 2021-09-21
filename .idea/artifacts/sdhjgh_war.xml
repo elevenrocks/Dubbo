@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdhjgh:war">
+    <output-path>$PROJECT_DIR$/sdhjgh/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sdhjgh</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sdhjgh.war">
+      <element id="artifact" artifact-name="sdhjgh:war exploded" />
+    </root>
+  </artifact>
+</component>

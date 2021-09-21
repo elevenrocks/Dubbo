@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-01" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-02" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-03-customer" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-03-domain" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-03-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo03-domain" />
+    <file type="web" url="file://$PROJECT_DIR$/sADFG" />
+    <file type="web" url="file://$PROJECT_DIR$/sdhjgh" />
+    <file type="web" url="file://$PROJECT_DIR$/ydfsdk" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dubbo-01/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-02/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-03-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-03-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-03-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-03-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/发生的/pom.xml" />
+        <option value="$PROJECT_DIR$/上电复和/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/上电复和/dsfg/pom.xml" />
+        <option value="$PROJECT_DIR$/上电复和/pom.xml" />
+        <option value="$PROJECT_DIR$/发生的/pom.xml" />
+        <option value="$PROJECT_DIR$/发生的/发/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

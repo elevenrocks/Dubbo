@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sADFG:war">
+    <output-path>$PROJECT_DIR$/sADFG/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sADFG</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sADFG.war">
+      <element id="artifact" artifact-name="sADFG:war exploded" />
+    </root>
+  </artifact>
+</component>

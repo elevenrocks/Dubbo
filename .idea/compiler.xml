@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-03-provider" />
+        <module name="dubbo-03-customer" />
+        <module name="dubbo-01" />
+        <module name="dubbo-03-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dsfg" target="1.5" />
+      <module name="dubbo-01" target="1.8" />
+      <module name="dubbo-02" target="1.8" />
+      <module name="dubbo-03-customer" target="1.8" />
+      <module name="dubbo-03-interface" target="1.8" />
+      <module name="dubbo-03-provider" target="1.8" />
+      <module name="fasd" target="1.7" />
+      <module name="sa" target="1.5" />
+      <module name="sADFG" target="1.7" />
+      <module name="sadfghg" target="1.5" />
+      <module name="sdhjgh" target="1.7" />
+      <module name="test01" target="1.5" />
+      <module name="ydfsdk" target="1.7" />
+      <module name="上电复和" target="1.5" />
+      <module name="发" target="1.5" />
+      <module name="发生的" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
